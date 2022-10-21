@@ -1,0 +1,14 @@
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\bin\Debug\ClienteWin2.exe.config
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\bin\Debug\ClienteWin2.exe
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\bin\Debug\ClienteWin2.pdb
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.csproj.AssemblyReference.cache
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.csproj.SuggestedBindingRedirects.cache
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.Form1.resources
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.Properties.Resources.resources
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.csproj.GenerateResource.cache
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.csproj.CoreCompileInputs.cache
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.exe
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.pdb
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.Parciales.resources
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.Proye.resources
+C:\Users\GIGABYTE\source\repos\ClasesParciales\ClienteWin2\obj\Debug\ClienteWin2.Join.resources

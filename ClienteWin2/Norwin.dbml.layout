@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 14.5, 20.375" name="Norwin">
+  <DataContextMoniker Name="/NorwinDataContext" />
+  <nestedChildShapes>
+    <classShape Id="91b9bbab-519e-4d5c-9a50-ee6c0bd7c129" absoluteBounds="3.75, 14.625, 2, 1.5785953776041683">
+      <DataClassMoniker Name="/NorwinDataContext/Categories" />
+      <nestedChildShapes>
+        <elementListCompartment Id="702a186e-506f-41aa-911b-0a2498b8e0d5" absoluteBounds="3.765, 15.085, 1.9700000000000002, 1.0185953776041665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e4b315a1-837d-4aca-abf3-8c73d5e9df91" absoluteBounds="9.5, 7.375, 2, 1.3862939453124987">
+      <DataClassMoniker Name="/NorwinDataContext/Territories" />
+      <nestedChildShapes>
+        <elementListCompartment Id="656d0411-cade-4216-865d-a649e9b8ff74" absoluteBounds="9.515, 7.835, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="79378f4a-201e-4857-ace7-86c9ebbbdeb6" absoluteBounds="3.5, 3.75, 2, 1.1939925130208326">
+      <DataClassMoniker Name="/NorwinDataContext/CustomerCustomerDemo" />
+      <nestedChildShapes>
+        <elementListCompartment Id="795c9bd1-4188-4bcb-b461-ecff779053b3" absoluteBounds="3.515, 4.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d7bbd831-b56b-427e-9220-da6449dbe18c" absoluteBounds="0.75, 0.75, 2, 1.1939925130208335">
+      <DataClassMoniker Name="/NorwinDataContext/CustomerDemographics" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7d663e08-745d-4dd5-a5f8-b1274184f9e3" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9fe6d398-d512-4759-bb56-3d36d1a30332" absoluteBounds="0.75, 2.875, 2, 2.9247054036458322">
+      <DataClassMoniker Name="/NorwinDataContext/Customers" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e4e06657-4a82-4fb6-b989-9454b867d944" absoluteBounds="0.765, 3.335, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4408ccb3-9b34-4907-b1d1-c9b1ab1e2ca8" absoluteBounds="3.75, 8.625, 2, 4.2708154296874987">
+      <DataClassMoniker Name="/NorwinDataContext/Employees" />
+      <nestedChildShapes>
+        <elementListCompartment Id="62fefdf2-64fd-4520-b1c0-e622fde4d287" absoluteBounds="3.765, 9.085, 1.9700000000000002, 3.7108154296875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9f3ab30c-a5ad-4202-98f8-c8feaa440586" absoluteBounds="12.25, 9.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/NorwinDataContext/EmployeeTerritories" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9d055d64-ca05-4097-b85a-dcb44899373b" absoluteBounds="12.265, 9.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9dcfd35d-ab4e-40b8-a141-10c5e39ba195" absoluteBounds="9.25, 3.5, 2, 1.7708968098958322">
+      <DataClassMoniker Name="/NorwinDataContext/Order_Details" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d304c9a4-dda0-4fb7-adbc-a917c3579a6f" absoluteBounds="9.265, 3.96, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9a60d721-9e33-4d04-95c2-c4a7f17c4eef" absoluteBounds="6.5, 2.625, 2, 3.5016097005208322">
+      <DataClassMoniker Name="/NorwinDataContext/Orders" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a553c243-1e26-4ad6-9dbb-08cf65ffbda7" absoluteBounds="6.515, 3.085, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="40d24295-4fb5-426b-9bde-8e332ca44324" absoluteBounds="6.5, 16, 2, 2.7324039713541683">
+      <DataClassMoniker Name="/NorwinDataContext/Products" />
+      <nestedChildShapes>
+        <elementListCompartment Id="53c5472c-a67f-4a74-8881-b8f7e05e526d" absoluteBounds="6.515, 16.46, 1.9700000000000002, 2.1724039713541665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d05bb525-cad0-4eba-9b00-b6ad350de744" absoluteBounds="6.75, 7.5, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/NorwinDataContext/Region" />
+      <nestedChildShapes>
+        <elementListCompartment Id="742398d1-33ed-4bf4-9154-a707bae88892" absoluteBounds="6.765, 7.96, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="703aa741-815e-44b3-bf2f-f4bf7957d938" absoluteBounds="3.75, 6.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/NorwinDataContext/Shippers" />
+      <nestedChildShapes>
+        <elementListCompartment Id="bb5c29e3-d108-41ce-8c40-837bcaf45e0a" absoluteBounds="3.765, 6.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="86763590-ec67-476c-87a2-1b7a0c421fca" absoluteBounds="3.75, 17, 2, 3.1170068359375023">
+      <DataClassMoniker Name="/NorwinDataContext/Suppliers" />
+      <nestedChildShapes>
+        <elementListCompartment Id="2ca85807-9de2-472e-bf65-40641c52059f" absoluteBounds="3.765, 17.46, 1.9700000000000002, 2.5570068359375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 1.34699625651042); (4.5 : 1.34699625651042); (4.5 : 3.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/CustomerDemographics/CustomerDemographics_CustomerCustomerDemo" />
+      <nodes>
+        <classShapeMoniker Id="d7bbd831-b56b-427e-9220-da6449dbe18c" />
+        <classShapeMoniker Id="79378f4a-201e-4857-ace7-86c9ebbbdeb6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.34699625651042); (3.5 : 4.34699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Customers/Customers_CustomerCustomerDemo" />
+      <nodes>
+        <classShapeMoniker Id="9fe6d398-d512-4759-bb56-3d36d1a30332" />
+        <classShapeMoniker Id="79378f4a-201e-4857-ace7-86c9ebbbdeb6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(4.45923076923077 : 12.8958154296875); (4.45923076923077 : 13.1458154296875); (5.05461538461538 : 13.1458154296875); (5.05461538461538 : 12.8958154296875)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/NorwinDataContext/Employees/Employees_Employees" />
+      <nodes>
+        <classShapeMoniker Id="4408ccb3-9b34-4907-b1d1-c9b1ab1e2ca8" />
+        <classShapeMoniker Id="4408ccb3-9b34-4907-b1d1-c9b1ab1e2ca8" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 10.0969962565104); (6.51041666666667 : 10.0969962565104 : JumpStart); (6.67708333333333 : 10.0969962565104 : JumpEnd); (9.26041666666667 : 10.0969962565104 : JumpStart); (9.42708333333333 : 10.0969962565104 : JumpEnd); (12.25 : 10.0969962565104)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Employees/Employees_EmployeeTerritories" />
+      <nodes>
+        <classShapeMoniker Id="4408ccb3-9b34-4907-b1d1-c9b1ab1e2ca8" />
+        <classShapeMoniker Id="9f3ab30c-a5ad-4202-98f8-c8feaa440586" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(11.5 : 8.06814697265625); (13.25 : 8.06814697265625); (13.25 : 9.5)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Territories/Territories_EmployeeTerritories" />
+      <nodes>
+        <classShapeMoniker Id="e4b315a1-837d-4aca-abf3-8c73d5e9df91" />
+        <classShapeMoniker Id="9f3ab30c-a5ad-4202-98f8-c8feaa440586" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 4.38544840494792); (9.25 : 4.38544840494792)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Orders/Orders_Order_Details" />
+      <nodes>
+        <classShapeMoniker Id="9a60d721-9e33-4d04-95c2-c4a7f17c4eef" />
+        <classShapeMoniker Id="9dcfd35d-ab4e-40b8-a141-10c5e39ba195" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.28125); (4.41666666666667 : 3.28125 : JumpStart); (4.58333333333333 : 3.28125 : JumpEnd); (6.5 : 3.28125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Customers/Customers_Orders" />
+      <nodes>
+        <classShapeMoniker Id="9fe6d398-d512-4759-bb56-3d36d1a30332" />
+        <classShapeMoniker Id="9a60d721-9e33-4d04-95c2-c4a7f17c4eef" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 11.527658343099); (6.59375 : 11.527658343099); (6.59375 : 6.12660970052083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Employees/Employees_Orders" />
+      <nodes>
+        <classShapeMoniker Id="4408ccb3-9b34-4907-b1d1-c9b1ab1e2ca8" />
+        <classShapeMoniker Id="9a60d721-9e33-4d04-95c2-c4a7f17c4eef" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.5 : 17.3662019856771); (9.34375 : 17.3662019856771); (9.34375 : 5.27089680989583)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Products/Products_Order_Details" />
+      <nodes>
+        <classShapeMoniker Id="40d24295-4fb5-426b-9bde-8e332ca44324" />
+        <classShapeMoniker Id="9dcfd35d-ab4e-40b8-a141-10c5e39ba195" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 15.3124995); (7.5 : 15.3124995); (7.5 : 16)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Categories/Categories_Products" />
+      <nodes>
+        <classShapeMoniker Id="91b9bbab-519e-4d5c-9a50-ee6c0bd7c129" />
+        <classShapeMoniker Id="40d24295-4fb5-426b-9bde-8e332ca44324" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(8.75 : 8.09699625651042); (9.26041666666667 : 8.09699625651042 : JumpStart); (9.42708333333333 : 8.09699625651042 : JumpEnd); (9.5 : 8.09699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Region/Region_Territories" />
+      <nodes>
+        <classShapeMoniker Id="d05bb525-cad0-4eba-9b00-b6ad350de744" />
+        <classShapeMoniker Id="e4b315a1-837d-4aca-abf3-8c73d5e9df91" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 6.96875); (6.5624975 : 6.96875); (6.5624975 : 6.12660970052083)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Shippers/Shippers_Orders" />
+      <nodes>
+        <classShapeMoniker Id="703aa741-815e-44b3-bf2f-f4bf7957d938" />
+        <classShapeMoniker Id="9a60d721-9e33-4d04-95c2-c4a7f17c4eef" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.75 : 17.8662019856771); (6.5 : 17.8662019856771)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/NorwinDataContext/Suppliers/Suppliers_Products" />
+      <nodes>
+        <classShapeMoniker Id="86763590-ec67-476c-87a2-1b7a0c421fca" />
+        <classShapeMoniker Id="40d24295-4fb5-426b-9bde-8e332ca44324" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>
